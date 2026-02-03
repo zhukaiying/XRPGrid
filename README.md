@@ -12,6 +12,8 @@
   - 📊 **回测模式**：使用历史数据验证策略表现
   - 🔴 **实盘模拟**：连接币安 API 获取实时行情，本地模拟交易
 - **断点续传**：交易状态保存至 JSON 文件，程序重启后自动恢复
+-**回测截图** <img width="1902" height="1191" alt="ff4a5b2c5b78c9f5477225bd88503d78" src="https://github.com/user-attachments/assets/52e73879-d86a-4693-b38d-7ee99a0b866f" />
+
 
 ## 📁 项目结构
 
@@ -128,3 +130,4 @@ set HTTPS_PROXY=http://127.0.0.1:7890
 ## 📜 License
 
 MIT License
+
